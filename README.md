@@ -8,7 +8,7 @@ It includes Jupyter notebooks, exercises, and quizzes to help students learn Pyt
 - `exercises/` – Practice problems  
 - `quizzes/` – Short knowledge checks
 
-## 🚀 Open in Google Colab
+##  Open in Google Colab
 
 Click any notebook below to launch it in Colab.  
 Once open, go to **File → Save a copy in Drive** to keep your own editable version.
