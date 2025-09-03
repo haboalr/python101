@@ -10,8 +10,12 @@ It includes Jupyter notebooks, exercises, and quizzes to help students learn Pyt
 
 ##  Open in Google Colab
 
-Click any notebook below to launch it in Colab.  
-Once open, go to **File → Save a copy in Drive** to keep your own editable version.
+Click any notebook below to launch it in Colab. 
+
+> ⚠️ **Important:** Once the notebook is open, go to  
+> **File → Save a copy in Drive**  
+> to keep your **own editable version**.  
+> Otherwise, you won’t be able to save your changes.
 
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/haboalr/python101/blob/main/notebooks/001_basics.ipynb) `001_basics.ipynb`
 
