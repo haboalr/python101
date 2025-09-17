@@ -32,3 +32,9 @@ Click any notebook below to launch it in Colab.
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/haboalr/python101/blob/main/notebooks/007_matplotlib.ipynb) `007_matplotlib.ipynb`
 
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/haboalr/python101/blob/main/notebooks/008_fancy_visualization.ipynb) `008_fancy_visualization.ipynb`
+
+## Exercises
+
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/haboalr/python101/blob/main/exercises/Exercise%20001.ipynb) `001_variables_exercise.ipynb`
+
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/haboalr/python101/blob/main/exercises/Exercise%20002.ipynb) `002_loops_exercise.ipynb`
