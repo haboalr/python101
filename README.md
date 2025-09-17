@@ -35,6 +35,6 @@ Click any notebook below to launch it in Colab.
 
 ## Exercises
 
-- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/haboalr/python101/blob/main/exercises/Exercise%20001.ipynb) `001_variables_exercise.ipynb`
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/haboalr/python101/blob/main/excercises/Exercise%20001.ipynb) `Exercise 001.ipynb`
 
-- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/haboalr/python101/blob/main/exercises/Exercise%20002.ipynb) `002_loops_exercise.ipynb`
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/haboalr/python101/blob/main/excercises/Exercise%20002.ipynb) `Exercise 002.ipynb`
